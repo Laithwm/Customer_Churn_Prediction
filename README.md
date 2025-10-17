@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Prediction — Telco Dataset  
+# Customer Churn Production on Telco's dataset
 
 Predicting whether a telecom customer will leave (churn) using machine-learning models.  
 This project demonstrates an end-to-end data-science workflow — data cleaning, exploratory analysis, feature engineering, model training, and evaluation.
