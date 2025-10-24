@@ -107,8 +107,7 @@ These insights can guide business teams to target at-risk customers through cont
 
 **Laith Waqas Mohammed**  
 _Data Scientist | Visual Storyteller | Analyst_  
-📍 Dublin, Ireland  
-🔗 [GitHub Profile](https://github.com/Laithwm)  
+📍 Dublin, Ireland   
 💼 [LinkedIn](https://www.linkedin.com/in/laithwm)
 
 ---
